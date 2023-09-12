@@ -1,0 +1,9 @@
+name: SimpleBackPack
+version: 1.0.0
+src-namespace-prefix: phuongaz\simplebackpack
+main: phuongaz\simplebackpack\SimpleBackPack
+api: 5.0.0
+
+permissions:
+  backpack.command:
+    default: true
